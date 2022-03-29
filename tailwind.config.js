@@ -5,13 +5,8 @@ module.exports = {
     "./src/**/*.md",
     "./src/**/*.11ty.js",
   ],
-  presets: [],
   theme: {
-    extend: {
-      colors: {
-        current: "currentColor",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
